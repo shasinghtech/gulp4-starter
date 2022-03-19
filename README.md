@@ -50,3 +50,4 @@ If you want HTML, CSS minification & image optimization:
 npm run prod
 ```
 Dist folder is the destination. You can now go dist/index.html and check the output.
+<p align="right">(<a href="#top">back to top</a>)</p>
